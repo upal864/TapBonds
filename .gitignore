@@ -1,0 +1,51 @@
+# Virtual Environment 
+venv/ 
+env/ 
+ENV/  
+.venv/
+  
+# Python cache files  
+__pycache__/  
+*.py[cod] 
+  
+# Distribution / packaging  
+dist/  
+build/  
+*.egg-info/ 
+  
+# Environment variables  
+.env  
+  
+# Logs  
+logs/  
+*.log 
+  
+# IDE specific files  
+.idea/  
+.vscode/  
+*.swp  
+*.swo 
+  
+# OS specific files  
+.DS_Store  
+Thumbs.db  
+  
+# PineconeDB local files  
+pinecone_index/ 
+  
+# Model files  
+*.bin  
+*.pt  
+*.pth  
+  
+# Large data files  
+*.json  
+  
+# Allow specific files  
+!requirements.txt 
+
+# Version files
+0.0.15
+0.2.2
+0.22.0
+"Gitcmdgit.exe\357\200\242 checkout -b tap-bonds-ai-layer"
